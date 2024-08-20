@@ -26,9 +26,10 @@ You only need a modern web browser to run this project.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mahmoudramadan21/6.-contact-form-main.git
-2. Navigate to the project directory::
+2. Navigate to the project directory:
+   ```bash
    cd 6.-contact-form-main
-3. Open the index.html file in your preferred web browser to view the project.
+4. Open the index.html file in your preferred web browser to view the project.
 
 ## Technologies Used:
 - HTML5: For the structure of the page.
